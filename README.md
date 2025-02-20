@@ -29,4 +29,10 @@ Welcome to **Petals Decor**, a beautifully designed landing page built with **Ty
 git clone https://github.com/Isaiahmukiibi/Petals-Decor.git
 cd Petals-Decor
 
+   2️⃣ Install Dependencies
+npm install
 
+   3️⃣ Start Development Server
+npm run dev
+    4️⃣ Build for Production
+npm run build
